@@ -105,10 +105,6 @@ Visit [http://localhost:3000](http://localhost:3000) to see the app live.
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🌟 Feedback & Contributions
 
 If you like this project, consider giving it a ⭐️!  

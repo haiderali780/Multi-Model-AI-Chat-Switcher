@@ -50,8 +50,8 @@ Choose between multiple LLMs to compare and test performance:
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd model-switcher-ai-sdk
+git clone https://github.com/haiderali780/Multi-Model-AI-Chat-Switcher.git
+cd Multi-Model-AI-Chat-Switcher
 ```
 
 ### 2. Install dependencies
